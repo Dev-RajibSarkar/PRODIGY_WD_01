@@ -1,1 +1,1 @@
-# PRODIGY_WD_01
+This is a Responsive Landing Page Project. Here I created an interactive navigation menu that changes color or style when hovered over a menu item. The navigation menu has a fixed position and is visible on all pages. I have used HTML to structure the menu, CSS to style it and JavaScript to add interactivity such as changing the background color or font color of the menu item when it is scrolled or when a menu item is hovered over
